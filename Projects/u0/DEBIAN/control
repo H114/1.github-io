@@ -1,0 +1,9 @@
+Package: com.h114.u0
+Name: u0
+Depends: SnowBoard
+Version: 1.0
+Architecture: iphoneos-arm
+Description: unc0ver icons theme
+Maintainer: h114
+Author: h114
+Section: Themes (SnowBoard)
