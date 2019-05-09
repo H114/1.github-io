@@ -1,14 +1,14 @@
-Package: com.h114.u0
+Package: U0
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: h114
 Filename: ./debs/com.h114.u0_1.0_iphoneos-arm.deb
-Size: 1143782
+Size: 1.5
 MD5sum: 96a2b01365ac2247f27055cb08439459
 SHA1: 85de702294340449329ea80706b2529ae0cbfc5e
 SHA256: 434f3aeef8e933a990c5c66364cb4954761ac163187d27958d77f1ffd51f1f19
 Section: Themes (SnowBoard)
 Description: unc0ver icons theme
-Author: h114
+Author: UNKNOWN
 Name: u0
 
