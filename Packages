@@ -16,14 +16,14 @@ Package: dleasy
 Version: 2.7.4-c
 Section: Tweaks
 Maintainer: h114
-Depends: firmware (>12.0),jodebox
+Depends: jodebox
 Architecture: iphoneos-arm
 Filename: ./debs/dleasy_2.7.4_iphoneos-arm.deb
 Size: 854
 MD5sum: 3d28947a991c6c9235945bd9eec245c5
 SHA1: bfcf0ac277b2811791e87fe1bd85a92ebedccb78
 SHA256: e486087a251a59e8cc4cc6ad331917bb095378a497310a52cbcce7ac21de836e
-Description: This is a sample new package. Firmware should be greater than 7.0
-Name: New Package
-Author: unknown
+Description: Download images & videos from social apps easily
+Name: dleasy
+Author:  AhmedBafkir
 Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.newpackage
