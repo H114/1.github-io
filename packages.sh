@@ -16,7 +16,7 @@ Package: dleasy
 Version: 2.7.4-c
 Section: Tweaks
 Maintainer: h114
-Depends: jodebox
+Depends: 
 Architecture: iphoneos-arm
 Filename: ./debs/dleasy_2.7.4_iphoneos-arm.deb
 Size: 854
