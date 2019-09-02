@@ -26,7 +26,7 @@ SHA256: e486087a251a59e8cc4cc6ad331917bb095378a497310a52cbcce7ac21de836e
 Description: Download images & videos from social apps easily
 Name: dleasy
 Author:  AhmedBafkir
-Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.newpackage
+Depiction: https://github.com/H114/h114.github.io/tree/master/depictions/com.supermamon.newpackage
 
 Package: selectionplus
 Version: 1
@@ -42,4 +42,4 @@ SHA256: 93bc25baa7532511d4289d6fdef797764d6e8c2bd06b44f3b2c30fa19ec309fe
 Description: selectionplus
 Name: selectionplus
 Author:  me
-Depiction: 
+Depiction:
