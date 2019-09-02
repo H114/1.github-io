@@ -1,8 +1,8 @@
-Origin: ALQAISAR ORIGIN
-Label: ALQAISAR LABEL
+Origin: ALQAISAR repo
+Label: ALQAISAR repo
 Suite: stable
 Version: 1.0
 Codename: ios
 Architectures: iphoneos-arm
 Components: main
-Description: ALQAISAR DES
+Description: ALQAISAR repo Description
