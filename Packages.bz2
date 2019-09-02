@@ -16,10 +16,10 @@ Package: dleasy
 Version: 2.7.4-c
 Section: Tweaks
 Maintainer: h114
-Depends: 
+Depends:
 Architecture: iphoneos-arm
 Filename: ./debs/dleasy_2.7.4_iphoneos-arm.deb
-Size: 854
+Size: 3.1mb
 MD5sum: 3d28947a991c6c9235945bd9eec245c5
 SHA1: bfcf0ac277b2811791e87fe1bd85a92ebedccb78
 SHA256: e486087a251a59e8cc4cc6ad331917bb095378a497310a52cbcce7ac21de836e
@@ -27,3 +27,19 @@ Description: Download images & videos from social apps easily
 Name: dleasy
 Author:  AhmedBafkir
 Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.newpackage
+
+Package: selectionplus
+Version: 1
+Section: Tweaks
+Maintainer: h114
+Depends:
+Architecture: iphoneos-arm
+Filename: ./com.satvikb.selectionplus_1.0_iphoneos-arm.deb
+Size: 31kb
+MD5sum:  897374b89936eb7ed8e17bde07adfe6c
+SHA1: 997351c7d24e354b534cab6e48907617d7dc77d5
+SHA256: 93bc25baa7532511d4289d6fdef797764d6e8c2bd06b44f3b2c30fa19ec309fe
+Description: selectionplus
+Name: selectionplus
+Author:  me
+Depiction: 
