@@ -43,3 +43,19 @@ Description: selectionplus
 Name: selectionplus
 Author:  me
 Depiction:
+
+Package: cracktool4
+Version: 0.6
+Section: Tweaks
+Maintainer: h114
+Depends:
+Architecture: iphoneos-arm
+Filename: ./Cracktool4_~beta6_iphoneos-arm.deb
+Size: 136kb
+MD5sum: 88afc143398a3db273f5bd5e7f8ea9cd
+SHA1: 21328ca63f7db32e02e684719f6a37df3aa32c2b
+SHA256: 10c7f6170d9fa277385aa2d65393c98a3327b0f4968b852fe125a3089456273f
+Description: tool to crack most famouse tweaks in one place
+Name:  cracktool4
+Author:  julioverne
+Depiction: 
