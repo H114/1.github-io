@@ -58,4 +58,4 @@ SHA256: 10c7f6170d9fa277385aa2d65393c98a3327b0f4968b852fe125a3089456273f
 Description: tool to crack most famouse tweaks in one place
 Name:  cracktool4
 Author:  julioverne
-Depiction: 
+Depiction: com.supermamon.newpackage
